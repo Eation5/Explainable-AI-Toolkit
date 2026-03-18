@@ -1,1 +1,1 @@
-Commit on 2025-02-04T09:55:43Z: Add support for transformer-based architectures in NLP service
+Commit on 2025-04-14T13:32:35Z: Update documentation with new API endpoints
