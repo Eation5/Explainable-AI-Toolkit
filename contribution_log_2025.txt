@@ -1,1 +1,1 @@
-Commit on 2025-10-09T16:45:38Z: Streamline Docker containers for faster deployment
+Commit on 2025-10-09T18:06:25Z: Add support for transformer-based architectures in NLP service
