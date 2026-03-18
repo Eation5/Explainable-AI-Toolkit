@@ -1,1 +1,1 @@
-Commit on 2024-12-10T18:23:08Z: Fix initial setup bugs
+Commit on 2024-12-10T10:10:26Z: Update README with project goals
