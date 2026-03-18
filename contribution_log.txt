@@ -1,1 +1,1 @@
-Commit on 2024-12-03T12:14:14Z: Refactor core ML pipeline for better performance
+Commit on 2025-02-12T21:09:00Z: Update README with new benchmark results
