@@ -1,1 +1,1 @@
-Commit on 2025-08-22T12:48:36Z: Add support for new hyperparameters
+Commit on 2025-08-22T13:43:01Z: Update documentation and usage examples
