@@ -1,1 +1,1 @@
-Commit on 2026-02-18T14:26:15Z: Fix edge case in data loading
+Commit on 2026-02-18T14:16:46Z: Improve logging and error handling
