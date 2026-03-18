@@ -1,1 +1,1 @@
-Commit on 2026-02-18T11:04:34Z: Improve logging and observability
+Commit on 2026-02-18T11:41:38Z: Clean up legacy code and documentation
